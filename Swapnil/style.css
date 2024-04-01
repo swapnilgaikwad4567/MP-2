@@ -101,18 +101,8 @@ img{
 .head-btn:hover{
     background: transparent;
 }
-@media(max-width: 500px){
-    .head-btn{
-        font-size: 17px;
-    }
-    .head-bottom h2{
-        font-size: 28px;
-    }
-    .head-bottom p{
-        font-size: 17px;
-        margin: 20px auto;
-    }
-}
+
+
 
 /* side nav */
 .sidenav{
